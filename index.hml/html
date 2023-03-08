@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <section class="first">
+            <p class="second"></p>
+            <p class="second"></p>
+            <p class="second"></p>
+        </section>
+        <section>
+            <p>Привет</p>
+            <p>Привет</p>
+            <p>Привет</p>
+            <p>Привет</p>
+            <p>Привет</p>
+            <article class="new">Вот здесь</article>
+            <img src="../Изображения/photo_2023-01-25_22-30-01.jpg" alt="Картинка">
+        </section>
+    </ul>
+    <section class="text">
+        <article class="text2">
+            <div class="name">Гель для душа</div>
+            <img src="" alt="Карточка товара" scr="../Изображения/photo_2023-01-25_22-30-01.jpg"><span class="sum">500</span><span class="prise">руб</span></img>
+        </article>
+    </section>
+    <div class="one-99"></div>
+    <div class="one-100"></div>
+    <div class="one-101"></div>
+    <div class="one-102"></div>
+    <div class="one-103"></div>
+    <div class="one-104"></div>
+    <div class="one-105"></div>
+    <div class="one-106"></div>
+    <div class="one-107"></div>
+    <div class="one-108"></div>
+    <div class="cat">Начать отсчёт 528</div>
+    <div class="cat">Начать отсчёт 529</div>
+    <div class="cat">Начать отсчёт 530</div>
+    <div class="cat">Начать отсчёт 531</div>
+    <div class="cat">Начать отсчёт 532</div>
+    <div class="cat">Начать отсчёт 533</div>
+    <div class="cat">Начать отсчёт 534</div>
+    <div class="cat">Начать отсчёт 535</div>
+    <div class="cat">Начать отсчёт 536</div>
+    <div class="cat">Начать отсчёт 537</div>
+   
+    main>(h1+ul>li*3)+p*10
+    <main>
+        <h1></h1>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+    </main>
+    main>(h1{Emmet}+ul>li*3)+p{Emmet helps me}*10
+    <main>
+        <h1>Emmet</h1>
+        <ul>
+            <li>One</li>
+            <li>Two</li>
+            <li>Three</li>
+        </ul>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+        <p>Emmet helps me</p>
+    </main>
+    main>h1{Резюме}+h2{Разработчик веб-приложений}+section.study>h2{Образование}+(ul>li.place-of-study{Место учёбы №$}*3)
+
+    <main>
+        <h1>Резюме</h1>
+        <h2>Разработчик веб-приложений</h2>
+        <section class="study">
+            <h2>Образование</h2>
+            <ul>
+                <li class="place-of-study">Место учёбы №1</li>
+                <li class="place-of-study">Место учёбы №2</li>
+                <li class="place-of-study">Место учёбы №3</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
